@@ -121,7 +121,6 @@ Aplicação web para gerar números aleatórios dentro de um intervalo definido 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
 
 
-Substitua pelos links reais e remova este comentário:
 
 [💻 Ver código](https://github.com/vkoithi/sorteador-numeros) • [🌐 Acessar projeto](https://vkoithi.github.io/sorteador-numeros/)
 
@@ -138,7 +137,6 @@ Lista de compras interativa desenvolvida para praticar a inclusão e remoção d
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
 
 
-Substitua pelos links reais e remova este comentário:
 
 [💻 Ver código](https://github.com/vkoithi/quicklist-market) • [🌐 Acessar projeto](https://vkoithi.github.io/quicklist-market/)
 
@@ -154,8 +152,6 @@ Landing page de um aplicativo de karaokê, desenvolvida com foco na construção
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 
 
-Substitua pelos links reais e remova este comentário:
-
 [💻 Ver código](https://github.com/vkoithi/zingen) • [🌐 Acessar projeto](https://vkoithi.github.io/zingen/)
 
 ---
@@ -168,8 +164,6 @@ Página de perfil de viagens desenvolvida para praticar a criação de layouts e
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-
-Substitua pelos links reais e remova este comentário:
 
 [💻 Ver código](https://github.com/vkoithi/projeto-travelgram) • [🌐 Acessar projeto](https://vkoithi.github.io/projeto-travelgram/)
 
