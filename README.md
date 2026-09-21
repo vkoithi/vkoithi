@@ -16,8 +16,6 @@
     />
   </a>
 
-  <br>
-
   <img
     src="https://img.shields.io/badge/FOCO-FULL%20STACK-7C3AED?style=for-the-badge&labelColor=0F172A"
     alt="Foco em Full Stack"
@@ -28,7 +26,7 @@
     alt="Brasília, DF"
   />
 
-  <br><br>
+  <br>
 
   <a href="#-sobre-mim">Sobre mim</a> •
   <a href="#-tecnologias-e-ferramentas">Tecnologias</a> •
@@ -89,7 +87,7 @@ const victor = {
     alt="HTML, CSS, JavaScript, Git e GitHub"
   />
 
-  <br><br>
+  <br>
 
   <h3>🎨 Ferramentas do meu dia a dia</h3>
 
